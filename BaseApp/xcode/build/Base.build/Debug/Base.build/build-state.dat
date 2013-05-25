@@ -219,9 +219,9 @@ t1357886322
 s7887232
 
 N/users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/../src/BaseApp.cpp
-c0000000051A1047400000000000001F1
-t1369506932
-s497
+c0000000051A108F200000000000002B8
+t1369508082
+s696
 i"cinder/app/AppBasic.h"
 i"cinder/gl/gl.h"
 
@@ -6469,11 +6469,11 @@ r0
 
 CCheck dependencies
 r0
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies48bff9823d51b741^33c207833d51b741^---0#1#0#--18"Check dependencies
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies40687d894051b741^d2e581894051b741^---0#1#0#--18"Check dependencies
 
 CCompileC ./build/Base.build/Debug/Base.build/Objects-normal/i386/BaseApp.o /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/../src/BaseApp.cpp normal i386 c++ com.apple.compilers.llvmgcc42
-s391199753.821507
-e391199764.077710
+s391200905.591832
+e391200911.542599
 r1
 xCompileC
 x./build/Base.build/Debug/Base.build/Objects-normal/i386/BaseApp.o
@@ -6482,7 +6482,7 @@ xnormal
 xi386
 xc++
 xcom.apple.compilers.llvmgcc42
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/../src/BaseApp.cppb763d2093c51b741^66d913143c51b741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/../src/BaseApp.cpp0000000000000000^2061"CompileC ./build/Base.build/Debug/Base.build/Objects-normal/i386/BaseApp.o ../src/BaseApp.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -iquote /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Base.build/Debug/Base.build/Base-generated-files.hmap -I/users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Base.build/Debug/Base.build/Base-own-target-headers.hmap -I/users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Base.build/Debug/Base.build/Base-all-target-headers.hmap -iquote /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Base.build/Debug/Base.build/Base-project-headers.hmap -iquote../../../lib/cinder_0.8.4_mac/include -iquote../include -I/users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/build/Debug/include -I../../../lib/cinder_0.8.4_mac/boost -I/users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Base.build/Debug/Base.build/DerivedSources/i386 -I/users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Base.build/Debug/Base.build/DerivedSources -F/users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/build/Debug -include /var/folders/dR/dR4W4skhHNawqsPqi7iWHE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Base_Prefix-bytlhieyyoytaqcjkpgjpnzyvwmw/Base_Prefix.pch -c /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/../src/BaseApp.cpp -o /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Base.build/Debug/Base.build/Objects-normal/i386/BaseApp.o
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/../src/BaseApp.cpp9ca697894051b741^5169988f4051b741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/../src/BaseApp.cpp0000000000000000^2061"CompileC ./build/Base.build/Debug/Base.build/Objects-normal/i386/BaseApp.o ../src/BaseApp.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -iquote /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Base.build/Debug/Base.build/Base-generated-files.hmap -I/users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Base.build/Debug/Base.build/Base-own-target-headers.hmap -I/users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Base.build/Debug/Base.build/Base-all-target-headers.hmap -iquote /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Base.build/Debug/Base.build/Base-project-headers.hmap -iquote../../../lib/cinder_0.8.4_mac/include -iquote../include -I/users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/build/Debug/include -I../../../lib/cinder_0.8.4_mac/boost -I/users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Base.build/Debug/Base.build/DerivedSources/i386 -I/users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Base.build/Debug/Base.build/DerivedSources -F/users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/build/Debug -include /var/folders/dR/dR4W4skhHNawqsPqi7iWHE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Base_Prefix-bytlhieyyoytaqcjkpgjpnzyvwmw/Base_Prefix.pch -c /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/../src/BaseApp.cpp -o /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Base.build/Debug/Base.build/Objects-normal/i386/BaseApp.o
 
 CCpResource CinderApp.icns ./build/Debug/Base.app/Contents/Resources/CinderApp.icns
 s391199753.610564
@@ -6494,14 +6494,14 @@ x./build/Debug/Base.app/Contents/Resources/CinderApp.icns
 lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy ./build/Debug/Base.app/Contents/Resources/CinderApp.icns185f9c093c51b741^ca1a9d093c51b741^---0#0#0#-19%DVTDocumentLocation2@151"file://localhost/users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Debug/Base.app/Contents/Resources/CinderApp.icns0000204d2205f041^483"CpResource CinderApp.icns ./build/Debug/Base.app/Contents/Resources/CinderApp.icns    cd /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/CinderApp.icns /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Debug/Base.app/Contents/Resources
 
 CLd /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Debug/Base.app/Contents/MacOS/Base normal i386
-s391199764.078918
-e391199769.688627
+s391200911.543832
+e391200913.583685
 r1
 xLd
 x/users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Debug/Base.app/Contents/MacOS/Base
 xnormal
 xi386
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Link /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Debug/Base.app/Contents/MacOS/Base414a14143c51b741^8849b0193c51b741^---0#0#0#--1028"Ld ./build/Debug/Base.app/Contents/MacOS/Base normal i386    cd /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/llvm-g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/build/Debug -F/users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/build/Debug -filelist /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Base.build/Debug/Base.build/Objects-normal/i386/Base.LinkFileList -mmacosx-version-min=10.5 ../../../lib/cinder_0.8.4_mac/lib/libcinder_d.a -lcurl -framework Cocoa -framework OpenGL -framework Carbon -framework CoreVideo -framework QTKit -framework QuickTime -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -o /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Debug/Base.app/Contents/MacOS/Base
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Link /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Debug/Base.app/Contents/MacOS/Base1e538b8f4051b741^2f6c95914051b741^---0#0#0#--1028"Ld ./build/Debug/Base.app/Contents/MacOS/Base normal i386    cd /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/llvm-g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/build/Debug -F/users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/build/Debug -filelist /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Base.build/Debug/Base.build/Objects-normal/i386/Base.LinkFileList -mmacosx-version-min=10.5 ../../../lib/cinder_0.8.4_mac/lib/libcinder_d.a -lcurl -framework Cocoa -framework OpenGL -framework Carbon -framework CoreVideo -framework QTKit -framework QuickTime -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -o /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Debug/Base.app/Contents/MacOS/Base
 
 CProcessInfoPlistFile /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Debug/Base.app/Contents/Info.plist Info.plist
 s391199753.604953
@@ -6529,10 +6529,10 @@ xcom.apple.compilers.llvmgcc42
 lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection26"Precompile Base_Prefix.pch126ca0093c51b741^3b00d2093c51b741^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/Base_Prefix.pch0000000000000000^2009"ProcessPCH++ /var/folders/dR/dR4W4skhHNawqsPqi7iWHE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Base_Prefix-bytlhieyyoytaqcjkpgjpnzyvwmw/Base_Prefix.pch.gch Base_Prefix.pch normal i386 c++ com.apple.compilers.llvmgcc42    cd /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -iquote /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Base.build/Debug/Base.build/Base-generated-files.hmap -I/users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Base.build/Debug/Base.build/Base-own-target-headers.hmap -I/users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Base.build/Debug/Base.build/Base-all-target-headers.hmap -iquote /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Base.build/Debug/Base.build/Base-project-headers.hmap -iquote../../../lib/cinder_0.8.4_mac/include -iquote../include -I/users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/build/Debug/include -I../../../lib/cinder_0.8.4_mac/boost -I/users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Base.build/Debug/Base.build/DerivedSources/i386 -I/users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Base.build/Debug/Base.build/DerivedSources -F/users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/build/Debug -c /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/Base_Prefix.pch -o /var/folders/dR/dR4W4skhHNawqsPqi7iWHE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Base_Prefix-bytlhieyyoytaqcjkpgjpnzyvwmw/Base_Prefix.pch.gch
 
 CTouch /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Debug/Base.app
-s391199769.691002
-e391199769.701843
+s391200913.586097
+e391200913.641407
 r1
 xTouch
 x/users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Debug/Base.app
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Touch /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Debug/Base.app84f0b0193c51b741^3facb3193c51b741^---0#0#0#--239"Touch ./build/Debug/Base.app    cd /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode    /usr/bin/touch -c /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Debug/Base.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Touch /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Debug/Base.app161896914051b741^1e33a4914051b741^---0#0#0#--239"Touch ./build/Debug/Base.app    cd /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode    /usr/bin/touch -c /users/apple/Documents/Repositories/DigitalAtlas/Cinder/Sketches/BaseApp/xcode/./build/Debug/Base.app
 
